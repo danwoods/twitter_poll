@@ -16,7 +16,7 @@ void setup() {
   int good = 0;
   int bad = 0;
   
-  myTwitter = new Twitter("danwoods", "pan1cct");
+  myTwitter = new Twitter("danwoods", "");
   try {
 
     Query query = new Query("Watching Beyonce");
