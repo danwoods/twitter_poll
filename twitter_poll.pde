@@ -51,6 +51,9 @@ void setup() {
     // set the width of the line. 
     strokeWeight(25);
     
+    //set end cap
+    strokeCap(SQUARE);
+    
     // set the color
     stroke(255, 0, 0, 175);
     
